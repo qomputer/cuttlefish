@@ -3,7 +3,6 @@ generated.config
 generated.conf
 ebin/*
 .eunit
-src/conf_parse.erl
 deps
 cuttlefish
 *.sublime-project
